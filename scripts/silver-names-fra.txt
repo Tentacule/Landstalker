@@ -1,0 +1,170 @@
+﻿Maire
+Fara
+Hahna
+Pockets
+Bell
+Marchand
+Pretre
+Aubergiste
+Prospero
+Maire
+Epouse
+Aubergiste
+Pretre
+Aubergiste
+Pretre
+Marchand
+Goro
+Maire
+Aubergiste
+Caissiere
+Marchand
+Marchand
+Linda
+Layla
+Fahl
+Marchand
+Ludwig
+Marchand
+Pretre
+Purin
+Arthur
+Julie
+June
+Majordome
+Moralis
+Marchand
+Pretre
+Maire
+Aubergiste
+Pretre
+Marchand
+Marchand
+Marchand
+Aubergiste
+Pretre
+Marchand
+Kayla
+Wally
+Ink
+Duc
+Zak
+Dexter
+Mir
+Pretre
+Lara
+Einstein
+Cutter
+Assala
+Gol
+Helga
+Marty
+Ryle
+Friday
+Miro
+Orc King
+Boss
+*
+*
+*
+Tibor
+Duke
+Spinner
+Pixie
+Trixie
+Nole
+Fahl
+*
+EkeEke
+Epée[nl]Magique
+Epée[nl]de Glace
+Epée[nl]Tonnerre
+Epée[nl]de Gaia
+Garde[nl]Flamme
+Bottes[nl]de Fer
+Bottes[nl]de Soins
+Piques[nl]de Neige
+Plastron[nl]d'Acier
+Plastron[nl]Chromé
+Plastron[nl]Carapace
+Hyper[nl]Plastron
+Pierre[nl]de Mars
+Pierre[nl]de Lune
+Pierre[nl]Saturne
+Pierre[nl]de Vénus
+Livre de[nl]Réveil
+Herbe[nl]Désintox
+Statue[nl]de Gaia
+Statue[nl]d'Or
+Soigne[nl]Esprit
+Ticket[nl]Casino
+Hache[nl]Magique
+Ruban[nl]Bleu
+Carte[nl]Acheteur
+Lanterne
+Ail
+Anti[nl]Paralysant
+Statue[nl]de Jypta
+Pierre[nl]Solaire
+Bracelet
+Sifflet
+Livre de[nl]Remede
+Livre[nl]Anti_Sort
+Livre[nl]Registre
+Grimoire
+Registre[nl]d'Hôtel
+Plan[nl]de l'Ile
+Estampe
+Joyau[nl]Rouge
+Ticket[nl]de gage
+Joyau[nl]Pourpre
+Oeil[nl]de Gola
+Statue[nl]de Mort
+Dahl
+Restau[-nl]ration
+Bûches
+Pierre[nl]Oracle
+Pierre[nl]Idole
+Clef
+Laissez[nl]Passer
+No[6][3]
+Cloche
+Gâteau[nl]Fraises
+Griffe[nl]de Gola
+Corne[nl]de Gola
+Croc[nl]de Gola
+Epée[nl]Large
+Plastron[nl]de Cuir
+Bottes[nl]de Cuir
+Aucun
+Réserve[nl]de Vie
+No.[4]
+AP
+DP
+Nouveau jeu
+Commencer
+Copier
+Effacer
+Oui
+Non
+On commence?
+On copie?
+On efface?
+Où?
+Massan
+Gumi
+Ryuma
+Mercator
+Verla
+Destel
+Tour Mir
+Sous Merc
+Massan
+Gumi
+Ryuma
+Mercator
+Verla
+Destel
+Lieu Lac
+Sous Grotte
+Kazalt
