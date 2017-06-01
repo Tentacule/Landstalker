@@ -96,20 +96,20 @@ Livre de[nl]Réveil
 Herbe[nl]Désintox
 Statue[nl]de Gaia
 Statue[nl]d'Or
-Soigner[nl]l'Esprit
+Soigne[nl]Esprit
 Ticket[nl]Casino
 Hache[nl]Magique
 Ruban[nl]Bleu
 Carte[nl]Acheteur
 Lanterne
 Ail
-Anti[nl]Paraliz
+Anti[nl]Paralysant
 Statue[nl]de Jypta
 Pierre[nl]Solaire
 Bracelet
 Sifflet
 Livre de[nl]Remede
-Livre de[nl]Anti_Sort
+Livre[nl]Anti_Sort
 Livre[nl]Registre
 Grimoire
 Registre[nl]d'Hôtel
