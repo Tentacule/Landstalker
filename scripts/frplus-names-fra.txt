@@ -55,7 +55,7 @@ Pretre
 Lara
 Einstein
 Cutter
-Kado
+Assala
 Gol
 Helga
 Marty
@@ -76,10 +76,10 @@ Nole
 Fahl
 *
 EkeEke
-Epeé[nl]Magique
-Epeé[nl]de Glace
-Epeé[nl]Tonnerre
-Epeé[nl]de Gaia
+Epée[nl]Magique
+Epée[nl]de Glace
+Epée[nl]Tonnerre
+Epée[nl]de Gaia
 Garde[nl]Flamme
 Bottes[nl]de Fer
 Bottes[nl]de Soins
@@ -133,7 +133,7 @@ Gâteau[nl]Fraises
 Griffe[nl]de Gola
 Corne[nl]de Gola
 Croc[nl]de Gola
-Epeé[nl]Large
+Epée[nl]Large
 Plastron[nl]de Cuir
 Bottes[nl]de Cuir
 Aucun
