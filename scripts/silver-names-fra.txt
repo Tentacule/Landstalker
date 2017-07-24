@@ -1,12 +1,12 @@
 ﻿Maire
 Fara
-Hahna
-Pockets
+Kunta
+Morio
 Bell
 Marchand
 Pretre
 Aubergiste
-Prospero
+Asral
 Maire
 Epouse
 Aubergiste
@@ -24,12 +24,12 @@ Linda
 Layla
 Fahl
 Marchand
-Ludwig
+Cellos
 Marchand
 Pretre
 Purin
-Arthur
-Julie
+DonMel
+Mary
 June
 Majordome
 Moralis
@@ -44,100 +44,100 @@ Marchand
 Aubergiste
 Pretre
 Marchand
-Kayla
-Wally
-Ink
+Kala
+Goose
+Zwam
 Duc
-Zak
-Dexter
+Zed
+Babo
 Mir
 Pretre
-Lara
-Einstein
-Cutter
+Rolia
+Mozu
+Bûcheron
 Assala
-Gol
-Helga
+Goldy
+Mizary
 Marty
 Ryle
 Friday
-Miro
+Dark Elf
 Orc King
-Boss
+Chef des voleurs
 *
 *
 *
-Tibor
-Duke
-Spinner
-Pixie
-Trixie
-Nole
-Fahl
+Torent
+Duc
+Balbom
+Monday
+Wednesday
+Roi Nole
+Horry
 *
-EkeEke
-Epée[nl]Magique
+Baie de[nl]EkeEke
+Ifrit[nl]Sword
 Epée[nl]de Glace
-Epée[nl]Tonnerre
+Epée[nl]Raijin
 Epée[nl]de Gaia
-Garde[nl]Flamme
-Bottes[nl]de Fer
-Bottes[nl]de Soins
-Piques[nl]de Neige
-Plastron[nl]d'Acier
-Plastron[nl]Chromé
-Plastron[nl]Carapace
-Hyper[nl]Plastron
-Pierre[nl]de Mars
-Pierre[nl]de Lune
-Pierre[nl]Saturne
-Pierre[nl]de Vénus
+Flame[nl]Guard
+Iron[nl]Shoe
+Healing[nl]Boots
+Snow[nl]Spike
+Steel[nl]Breast
+Chrome[nl]Breast
+Shell[nl]Breast
+Aegis[nl]Breast
+Mars[nl]Stone
+Moon[nl]Stone
+Saturn[nl]Stone
+Venus[nl]Stone
 Livre de[nl]Réveil
-Herbe[nl]Désintox
+Herbe[nl]anti-poison
 Statue[nl]de Gaia
-Statue[nl]d'Or
-Soigne[nl]Esprit
-Ticket[nl]Casino
-Hache[nl]Magique
+Déesse[nl]en or
+Mind[nl]Repair
+Ticket[nl]de jeu
+Axe[nl]Magic
 Ruban[nl]Bleu
-Carte[nl]Acheteur
+Permis[nl]achat
 Lanterne
 Ail
-Anti[nl]Paralysant
-Statue[nl]de Jypta
+Antiparalyse
+Trésor[nl]de Jypta
 Pierre[nl]Solaire
-Bracelet
-Sifflet
+Amulette
+Sifflet[nl]de Moz
 Livre de[nl]Remede
 Livre[nl]Anti_Sort
 Livre[nl]Registre
-Grimoire
+Livre[nl]Rose
 Registre[nl]d'Hôtel
 Plan[nl]de l'Ile
-Estampe
+Tablette[nl]de Gola
 Joyau[nl]Rouge
-Ticket[nl]de gage
+TBack
 Joyau[nl]Pourpre
 Oeil[nl]de Gola
-Statue[nl]de Mort
-Dahl
-Restau[-nl]ration
-Bûches
-Pierre[nl]Oracle
-Pierre[nl]Idole
-Clef
-Laissez[nl]Passer
+Statue de[nl]Démon
+Medicament[nl]Dahl 
+Restore
+Bois pour[nl]radeau
+Bunny[nl]Chan
+Pierre[nl]maléfique
+Clef de[nl]labyrinthe
+Passport
 No[6][3]
-Cloche
-Gâteau[nl]Fraises
+Chime
+Costume[nl]Lapin
 Griffe[nl]de Gola
 Corne[nl]de Gola
 Croc[nl]de Gola
-Epée[nl]Large
-Plastron[nl]de Cuir
-Bottes[nl]de Cuir
+Broad[nl]Sword
+Leather[nl]Breast
+Leather[nl]Boots
 Aucun
-Réserve[nl]de Vie
+Source[nl]de Vie
 No.[4]
 AP
 DP
