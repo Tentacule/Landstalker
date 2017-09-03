@@ -53,7 +53,7 @@ Babo
 Mir
 Pretre
 Rolia
-Mozu
+Moz
 Bûcheron
 Assala
 Goldy
@@ -62,7 +62,7 @@ Marty
 Ryle
 Friday
 Dark Elf
-Orc King
+Roi Orc
 Chef des voleurs
 *
 *
@@ -76,34 +76,34 @@ Roi Nole
 Horry
 *
 Baie de[nl]EkeEke
-Ifrit[nl]Sword
+Epée[nl]Ifrit
 Epée[nl]de Glace
 Epée[nl]Raijin
 Epée[nl]de Gaia
-Flame[nl]Guard
-Iron[nl]Shoe
-Healing[nl]Boots
-Snow[nl]Spike
-Steel[nl]Breast
-Chrome[nl]Breast
-Shell[nl]Breast
-Aegis[nl]Breast
-Mars[nl]Stone
-Moon[nl]Stone
-Saturn[nl]Stone
-Venus[nl]Stone
+Garde[nl]Flamme
+Bottes[nl]de Fer
+Bottes[nl]de Soins
+Piques[nl]de Neige
+Plastron[nl]d'Acier
+Plastron[nl]Chromé
+Plastron[nl]Carapace
+Plastron[nl]Egide
+Pierre[nl]de Mars
+Pierre[nl]de Lune
+Pierre[nl]Saturne
+Pierre[nl]de Vénus
 Livre de[nl]Réveil
-Herbe[nl]anti-poison
+Anti-poison
 Statue[nl]de Gaia
 Déesse[nl]en or
-Mind[nl]Repair
+Soigne[nl]Esprit
 Ticket[nl]de jeu
-Axe[nl]Magic
+Hache[nl]Magique
 Ruban[nl]Bleu
 Permis[nl]achat
 Lanterne
 Ail
-Antiparalyse
+Anti-[nl]paralysie
 Trésor[nl]de Jypta
 Pierre[nl]Solaire
 Amulette
@@ -116,26 +116,26 @@ Registre[nl]d'Hôtel
 Plan[nl]de l'Ile
 Tablette[nl]de Gola
 Joyau[nl]Rouge
-TBack
+String
 Joyau[nl]Pourpre
 Oeil[nl]de Gola
 Statue de[nl]Démon
-Medicament[nl]Dahl 
-Restore
+Elixir Dahl
+Remontant
 Bois pour[nl]radeau
 Bunny[nl]Chan
 Pierre[nl]maléfique
 Clef de[nl]labyrinthe
 Passport
 No[6][3]
-Chime
+Carillon
 Costume[nl]Lapin
 Griffe[nl]de Gola
 Corne[nl]de Gola
 Croc[nl]de Gola
-Broad[nl]Sword
-Leather[nl]Breast
-Leather[nl]Boots
+Epée[nl]Large
+Plastron[nl]de cuir
+Bottes[nl]de cuir
 Aucun
 Source[nl]de Vie
 No.[4]
