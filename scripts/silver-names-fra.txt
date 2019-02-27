@@ -17,9 +17,9 @@ Marchand
 Goro
 Maire
 Aubergiste
-Caissiere
+Voyante
 Marchand
-Marchand
+Tenancier
 Linda
 Layla
 Fahl
