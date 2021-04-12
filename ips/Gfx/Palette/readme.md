@@ -11,8 +11,8 @@ Updated sprite data to use palette 1 by changing bits 6-7 of the second byte.
 
 _ | _            |  _
 :-------------------------:|:-------------------------:|:-------------------------:
-Data | 93<span style="color:red; background: black">9D</span>200014328300 | 93<span style="color:green; background: black">5D</span>200014328300
-Byte 2 | <span style="color:red; background: black">10 (2) </span>011101 | <span style="color:green; background: black">01 (1) </span>011101
+Data | 93<span style="color:red; background: black">**9D**</span>200014328300 | 93<span style="color:green; background: black">**5D**</span>200014328300
+Byte 2 | <span style="color:red; background: black">**10 (2)** </span>011101 | <span style="color:green; background: black">**01 (1)** </span>011101
   
 <p />
 
