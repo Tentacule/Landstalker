@@ -1,4 +1,4 @@
-# Fix soldier palette
+# Fix soldier's palette
 
 Original            |  Fixed
 :-------------------------:|:-------------------------:
